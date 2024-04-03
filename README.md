@@ -1,4 +1,4 @@
-# BreadcrumbsConvolutional-Neural-Networks-for-Traffic-Sign-Recognition
+# Convolutional-Neural-Networks-for-Traffic-Sign-Recognition
 
 ## Overview
 Built a Traffic Sign Recognition Web App that allows users to upload images of traffic signs and quickly receive predictions, using CNN models developed with TensorFlow and Keras, to provide accurate classifications of various traffic sign classes.
